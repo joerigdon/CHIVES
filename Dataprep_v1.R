@@ -1,12 +1,6 @@
 ##Add in total calories, baseline cup-equivalents of F/V, baseline HEI score, baseline AHEI score, and baseline oz-equivalents of major USDA food categories (refined grains, whole grains, etc.) ... just the big categories
 
 ##Load NDSR data
-##Connect to server
-#Path: Y:\Sanjay Projects\CHIVES\Chives NDSR Data
-#Server: 171.64.154.67
-#U: jrigdon
-#P: pcor-584
-
 ##Add in new data from Sarah
 ##ALL DONE! 😊I have outputted the missing folder including 22 recalls.
 ##Here is the path: smb://171.64.154.67/projects/Sanjay Projects/CHIVES/Chives NDSR Data/Missing/C1-8 BL & 6M
