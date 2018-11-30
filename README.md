@@ -1,5 +1,5 @@
 # CHIVES
-Contains all of the data prep and analysis code for the manuscript "Effects of alternative food voucher delivery strategies on nutrition among low-income adults: A randomized community-based trial" (Basu et. al.)
+Contains all of the data prep and analysis code for manuscript XX.
 
 Description of files:
 1. Dataprep_v1.R extracts all of the nutrition data from the secure server.  Dataprep_12m.R adds the 12 month data to the extraction.
